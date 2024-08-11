@@ -1,0 +1,13 @@
+@import url(https://fonts.googleapis.com/icon?family=Material+Icons);
+@import "../../node_modules/bootstrap/scss/functions";
+@import './utils/variables';
+@import "../../node_modules/bootstrap";
+
+@import './base/base';
+@import './layout/header.scss';
+ 
+
+// page
+@import './pages/main-admin.scss';
+
+
